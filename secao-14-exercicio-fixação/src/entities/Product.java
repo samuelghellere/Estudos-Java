@@ -29,7 +29,7 @@ public class Product {
 		this.price = price;
 	}
 	
-	public String priceTaf() {
-		return this.getName() + " $" + String.format("%.2f", this.getPrice());
+	public String priceTag() {
+		return this.getName() + " $ " + String.format("%.2f", this.getPrice());
 	}
 }

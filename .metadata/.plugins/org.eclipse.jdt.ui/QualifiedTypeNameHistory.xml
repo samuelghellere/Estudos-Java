@@ -25,9 +25,7 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="entitites.Comment"/>
     <fullyQualifiedTypeName name="entitites.Post"/>
-    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="entities.Client"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="entities.Order"/>
     <fullyQualifiedTypeName name="entities.OrderItem"/>
     <fullyQualifiedTypeName name="entities.enums.OrderStatus"/>
@@ -35,13 +33,19 @@
     <fullyQualifiedTypeName name="entities.SavingAccount"/>
     <fullyQualifiedTypeName name="entities.Accont"/>
     <fullyQualifiedTypeName name="entities.BusinessAccount"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="entities.OutsourcedEmployee"/>
     <fullyQualifiedTypeName name="entities.Employee"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.lir.alloc.SaveCalleeSaveRegisters"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="entities.Product"/>
+    <fullyQualifiedTypeName name="entities.ImportedProduct"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="entities.UsedProduct"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
 </qualifiedTypeNameHistroy>
