@@ -11,6 +11,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="R:\VC101D06\appmodulofolha\contabilger\dbver\build"/>
 			<item value="B:\Pessoal\Udemy\Cursos\Java\Workspace\secao-12-git"/>
 		</list>
 	</section>
