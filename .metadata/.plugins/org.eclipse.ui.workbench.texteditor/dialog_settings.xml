@@ -12,6 +12,7 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="cr"/>
 			<item value="testRookCastling"/>
 			<item value="makeMove"/>
 			<item value="modoDesenv"/>
