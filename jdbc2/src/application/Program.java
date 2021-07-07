@@ -17,7 +17,7 @@ public class Program {
 		
 		try{
 			conn = DB.getConnection();
-			
+			 
 			st = conn.createStatement();
 			
 			rs = st.executeQuery("SELECT * FROM DEPARTMENT");
